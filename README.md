@@ -9,7 +9,7 @@
   <a href="https://github.com/adrpbizz?tab=repositories">Explore repositories →</a>
 </p>
 
-# Hey, I'm Andi.
+# Hey, I'm Dazai.
 
 I build tools where **marketing, creative work, and code** meet: turning campaign briefs into assets, making creative production repeatable, and making metrics easier to use.
 
